@@ -2,7 +2,7 @@
 
 - 🙌 I'm a new student of Microverse
 - 😁 I will be a really great programmer
-- 🔆 I'm fast learner and proactiveness
+- 🔆 I'm a fast learner and proactiveness
 
 
 <!--
