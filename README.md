@@ -1,7 +1,7 @@
-### Hi there 👋 My name is Luis Carlos! 
+### Hi there 👋 My name is Luis Valera! 
 
-- 🙌 I'm a new student of Microverse
-- 😁 I will be a really great programmer
+- 🙌 Currently studying at Microverse.
+- 😁 Full Stack Web developer in process.
 - 🔆 I'm a fast learner and proactiveness
 
 
